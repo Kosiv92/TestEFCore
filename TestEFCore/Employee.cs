@@ -11,5 +11,7 @@ namespace TestEFCore
         public string Name { get; set; }
 
         public Role Role { get; set; }
+
+        //public Guid RoleId { get; set; }
     }
 }
